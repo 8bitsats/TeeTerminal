@@ -4,7 +4,7 @@ description: The Complete Guide to Trusted Execution Environments (TEEs) in Web3
 
 # Tee: In Web 3
 
-<picture><source srcset="https://ikuyuuhxayxbfsixxbad.supabase.co/storage/v1/object/public/pics/robot.png" media="(prefers-color-scheme: dark)"><img src="https://ikuyuuhxayxbfsixxbad.supabase.co/storage/v1/object/public/art/agent.png" alt="TEE Security"></picture>
+![TEE Security](<.gitbook/assets/ChatGPT Image Apr 13, 2025, 09_37_35 PM.png>)
 
 ### Table of Contents
 

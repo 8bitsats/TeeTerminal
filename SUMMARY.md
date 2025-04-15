@@ -10,3 +10,4 @@
 * [GitHub](https://github.com/8bitsats)
 * [Tech](https://solanatee.com)
 * [TeeParty](https://teeparty.fun)
+* [Tee Terminal](tee-terminal.md)

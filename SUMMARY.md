@@ -12,3 +12,4 @@
 * [GitHub](https://github.com/8bitsats)
 * [Tech](https://solanatee.com)
 * [TeeParty](https://teeparty.fun)
+* [Tee Talk](tee-talk.md)

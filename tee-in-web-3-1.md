@@ -1,6 +1,6 @@
 ---
 description: >-
-  Welcome To the Tee in Web 3 Guide powered by ChatMCP. ChatMCP is A fully
+  Welcome To the Tee in Web 3 Guide powered by ChatTEEgpt. ChatTEEgpt is A fully
   decentralized private AI messaging using TEEs,  on the Solana blockchain.
 ---
 

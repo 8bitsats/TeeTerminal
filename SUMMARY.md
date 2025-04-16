@@ -6,6 +6,7 @@
 * [Use Cases For Tee in Web 3](use-cases-for-tee-in-web-3.md)
 * [Decentralized Private Ai Messaging on Solana](tee-in-web-3-1.md)
 * [TEEGPT and TEEChat](teegpt-and-teechat.md)
+* [Tee Telegram Trading Bot & Mini App](tee-telegram-trading-bot-and-mini-app.md)
 * [Piep Piper](piep-piper.md)
 * [Terminal](https://teeterminal.tech)
 * [GitHub](https://github.com/8bitsats)
